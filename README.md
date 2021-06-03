@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
-- 🤝 I’m looking for help with **Learning ML Framkeworks**
+- 🤝 I’m looking for help with **Learning ML Frameworks**
 
 - 📫 How to reach me **kk3286@drexel.edu**
 
