@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Stroke EDA Predictor](https://github.com/kevinkarnani/RayTracer)
+- 🔭 I’m currently working on [Ray Tracer](https://github.com/kevinkarnani/RayTracer)
 
 - 🌱 I’m currently learning **Data Science, ML/DL Frameworks, Computer Vision**
 
