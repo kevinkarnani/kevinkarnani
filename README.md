@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Pathology](https://github.com/kevinkarnani/digital-pathology)
+- 🔭 I’m currently working on [Computational Metadata](10.1007/s00799-022-00342-1)
 
 - 🌱 I’m currently learning **Data Science, ML/DL Frameworks, Computer Vision, AI in Medicine**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Learning ML Frameworks**
 
-- 📫 How to reach me **kk3286@drexel.edu**
+- 📫 How to reach me **kevinkarnani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
